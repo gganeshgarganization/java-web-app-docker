@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies Ganesh, Madanapalle,Chittoor, Marathahalli, Bengaluru,</h2>
+			<h2>Welcome To Mithun Technologies Ganesh,we soo happy to here with us, we provide the best&real time environment in the course</h2>
 			<h3>Contact @ +91-9980923226,+91-9980923216</h3>
 		</div>	
 	</div>
