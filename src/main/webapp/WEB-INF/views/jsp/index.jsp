@@ -41,7 +41,8 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Mithun Technologies Ganesh,we soo happy to here with us, we provide the best&real time environment in the course</h2>
-			<h3>Contact @ +91-9980923226,+91-9980923216</h3>
+			<h3>Contact @ +91-9346424265,+91-9035360570</h3>
+			<h4>This a the message for many of you guys this is the best Institute in the Marathahalli</h4>
 		</div>	
 	</div>
 
